@@ -1,6 +1,34 @@
 {
   "run": [
     {
+      "filePath": "/SolutionCategories/webapp/Component.js",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 1,
+      "urlParameters": [
+        {
+          "paramName": "",
+          "paramValue": "",
+          "paramActive": false
+        },
+        {
+          "paramName": "",
+          "paramValue": "",
+          "paramActive": false
+        }
+      ],
+      "hashParameter": "",
+      "_metadata": {
+        "id": 5239014,
+        "runnerId": "fiorirunner",
+        "displayName": "App as Fiori Component",
+        "lastRunTimeStamp": 1492864096239
+      }
+    },
+    {
       "filePath": "/SolutionCategories/webapp/test/flpSandbox.html",
       "previewMode": 1,
       "dataMode": 1,
@@ -25,13 +53,13 @@
         "id": 1978925,
         "runnerId": "webapprunner",
         "displayName": "App in FLP Sandbox",
-        "lastRunTimeStamp": 1492781647620
+        "lastRunTimeStamp": 1492791273899
       }
     },
     {
       "filePath": "/SolutionCategories/webapp/test/flpSandboxMockServer.html",
       "previewMode": 1,
-      "dataMode": 1,
+      "dataMode": 0,
       "workspace": "withoutWorkspace",
       "urlParameters": [
         {
@@ -53,7 +81,7 @@
         "id": 1978926,
         "runnerId": "webapprunner",
         "displayName": "App in FLP Sandbox (Mocked)",
-        "lastRunTimeStamp": 1492781612787
+        "lastRunTimeStamp": 1492791252904
       }
     },
     {
@@ -135,33 +163,9 @@
         "runnerId": "webapprunner",
         "displayName": "Testsuite (Unit, OPA)"
       }
-    },
-    {
-      "filePath": "/SolutionCategories/webapp/Component.js",
-      "previewMode": 1,
-      "dataMode": 1,
-      "workspace": "withoutWorkspace",
-      "ui5ActiveVersion": null,
-      "ui5VerSource": null,
-      "isDefaultVersion": 1,
-      "urlParameters": [
-        {
-          "paramName": "",
-          "paramValue": "",
-          "paramActive": false
-        },
-        {
-          "paramName": "",
-          "paramValue": "",
-          "paramActive": false
-        }
-      ],
-      "hashParameter": "",
-      "_metadata": {
-        "id": 5239014,
-        "runnerId": "fiorirunner",
-        "displayName": "App as Fiori Component"
-      }
     }
-  ]
+  ],
+  "hybrid": {
+    "dirty": true
+  }
 }
