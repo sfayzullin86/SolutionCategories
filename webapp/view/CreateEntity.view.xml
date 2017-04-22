@@ -26,9 +26,6 @@
 					<Label text="Time Stamp" required="false"/>
 					<DatePicker name="Changedat" value="{ path: 'Changedat', type: 'sap.ui.model.type.DateTime'}" id="Changedat_id" type="DateTime"
 						enabled="false" visible="true"/>
-					<Label text="Deleted" required="false"/>
-					<Input name="Deleted" id="Deleted_id" valueLiveUpdate="true" liveChange="_validateSaveEnablement" enabled="false" visible="true"
-						value="{ path: 'Deleted', type: 'sap.ui.model.odata.type.String' , constraints:{ maxLength:1 } }"/>
 				</f:content>
 			</f:SimpleForm>
 		</semantic:content>
