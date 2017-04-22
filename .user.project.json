@@ -18,42 +18,20 @@
         }
       ],
       "hashParameter": "SolutionCategories-display",
-      "ui5ActiveVersion": null,
+      "ui5ActiveVersion": "1.44.12",
       "ui5VerSource": null,
       "isDefaultVersion": 1,
+      "backendSystem": [
+        {
+          "source": "s4h-onpremise-http",
+          "destinations": "s4h-onpremise-http"
+        }
+      ],
       "_metadata": {
         "id": 1978925,
         "runnerId": "webapprunner",
         "displayName": "App in FLP Sandbox",
-        "lastRunTimeStamp": 1492866662054
-      }
-    },
-    {
-      "filePath": "/SolutionCategories/webapp/Component.js",
-      "previewMode": 1,
-      "dataMode": 1,
-      "workspace": "withoutWorkspace",
-      "ui5ActiveVersion": null,
-      "ui5VerSource": null,
-      "isDefaultVersion": 1,
-      "urlParameters": [
-        {
-          "paramName": "",
-          "paramValue": "",
-          "paramActive": false
-        },
-        {
-          "paramName": "",
-          "paramValue": "",
-          "paramActive": false
-        }
-      ],
-      "hashParameter": "",
-      "_metadata": {
-        "id": 5239014,
-        "runnerId": "fiorirunner",
-        "displayName": "App as Fiori Component",
-        "lastRunTimeStamp": 1492864471417
+        "lastRunTimeStamp": 1492867689676
       }
     },
     {
@@ -162,6 +140,34 @@
         "id": 7524840,
         "runnerId": "webapprunner",
         "displayName": "Testsuite (Unit, OPA)"
+      }
+    },
+    {
+      "filePath": "/SolutionCategories/webapp/Component.js",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 1,
+      "urlParameters": [
+        {
+          "paramName": "",
+          "paramValue": "",
+          "paramActive": false
+        },
+        {
+          "paramName": "",
+          "paramValue": "",
+          "paramActive": false
+        }
+      ],
+      "hashParameter": "",
+      "_metadata": {
+        "id": 5239014,
+        "runnerId": "fiorirunner",
+        "displayName": "App as Fiori Component",
+        "lastRunTimeStamp": 1492864471417
       }
     }
   ],

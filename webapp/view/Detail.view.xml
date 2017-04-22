@@ -4,7 +4,7 @@
 		busy="{detailView>/busy}" busyIndicatorDelay="{detailView>/delay}">
 		<semantic:content>
 			<ObjectHeader id="objectHeader" title="{SolcatTxt}"></ObjectHeader>
-	    </semantic:content>
+	    </semantic:content> 
 		<semantic:editAction>
 			<semantic:EditAction id="edit" press="onEdit"/>
 		</semantic:editAction>
