@@ -5,7 +5,7 @@
 		<semantic:content>
 			<f:SimpleForm class="editableForm" columnsL="1" columnsM="1" editable="true" emptySpanL="4" emptySpanM="4" id="newEntitySimpleForm"
 				labelSpanL="3" labelSpanM="3" layout="ResponsiveGridLayout" maxContainerCols="2" minWidth="1024"
-				title="{= ${viewModel>/mode} === 'edit'? 'Edit ZSTS_SRV.SOLCAT': 'New ZSTS_SRV.SOLCAT'}">
+				title="{= ${viewModel>/mode} === 'edit'? 'Edit ZSTS_SRV.SOLCAT': 'New Solution Category'}">
 				<f:content>
 					<Label text="Solution Category ID" required="true"/>
 					<Input name="SolcatId" id="SolcatId_id" valueLiveUpdate="true" liveChange="_validateSaveEnablement"
