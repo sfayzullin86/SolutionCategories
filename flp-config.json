@@ -2,7 +2,7 @@
     "application": {
         "id": "",
         "title": "SolutionCategories.SolutionCategories",
-        "description": "Solution Categories",
+        "description": "SolutionCategories",
         "type": "SAP_UI5_Component",
         "componentUrl": "/",
         "appUrl": "#SolutionCategories-Display",
@@ -23,9 +23,9 @@
     },
     "tile": {
         "type": "StaticTile",
-        "title": "Solution Categories",
+        "title": "SolutionCategories",
         "subtitle": "Subtitle",
-        "searchKeywords": "Solution Categories,Subtitle",
+        "searchKeywords": "SolutionCategories,Subtitle",
         "displayIconUrl": "sap-icon://approvals",
         "displayInfoText": "",
         "size": "1x1",

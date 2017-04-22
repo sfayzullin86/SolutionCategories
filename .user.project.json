@@ -25,7 +25,7 @@
         "id": 5239014,
         "runnerId": "fiorirunner",
         "displayName": "App as Fiori Component",
-        "lastRunTimeStamp": 1492864305983
+        "lastRunTimeStamp": 1492864471417
       }
     },
     {
@@ -166,6 +166,6 @@
     }
   ],
   "hybrid": {
-    "dirty": true
+    "dirty": false
   }
 }
