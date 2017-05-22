@@ -13,8 +13,8 @@
     "excludedFiles": [
       "test.html"
     ],
-    "buildRequired": true,
-    "lastBuildDateTime": "Sat, 22 Apr 2017 13:39:03 GMT"
+    "buildRequired": false,
+    "lastBuildDateTime": "Mon, 22 May 2017 06:26:24 GMT"
   },
   "generation": [
     {
@@ -68,6 +68,6 @@
   "hcpdeploy": {
     "account": "i313404trial",
     "name": "solutioncategories",
-    "lastVersionWeTriedToDeploy": "1.0.3"
+    "lastVersionWeTriedToDeploy": "1.0.0"
   }
 }

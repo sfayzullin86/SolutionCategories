@@ -31,7 +31,7 @@
         "id": 1978925,
         "runnerId": "webapprunner",
         "displayName": "App in FLP Sandbox",
-        "lastRunTimeStamp": 1492868405503
+        "lastRunTimeStamp": 1495455519747
       }
     },
     {
@@ -172,6 +172,6 @@
     }
   ],
   "hybrid": {
-    "dirty": true
+    "dirty": false
   }
 }
