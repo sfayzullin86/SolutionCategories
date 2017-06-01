@@ -1,6 +1,34 @@
 {
   "run": [
     {
+      "filePath": "/SolutionCategories/webapp/Component.js",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 1,
+      "urlParameters": [
+        {
+          "paramName": "",
+          "paramValue": "",
+          "paramActive": false
+        },
+        {
+          "paramName": "",
+          "paramValue": "",
+          "paramActive": false
+        }
+      ],
+      "hashParameter": "",
+      "_metadata": {
+        "id": 5239014,
+        "runnerId": "fiorirunner",
+        "displayName": "App as Fiori Component",
+        "lastRunTimeStamp": 1496236657091
+      }
+    },
+    {
       "filePath": "/SolutionCategories/webapp/test/flpSandbox.html",
       "previewMode": 1,
       "dataMode": 1,
@@ -31,7 +59,7 @@
         "id": 1978925,
         "runnerId": "webapprunner",
         "displayName": "App in FLP Sandbox",
-        "lastRunTimeStamp": 1496037342101
+        "lastRunTimeStamp": 1496133045108
       }
     },
     {
@@ -140,34 +168,6 @@
         "id": 7524840,
         "runnerId": "webapprunner",
         "displayName": "Testsuite (Unit, OPA)"
-      }
-    },
-    {
-      "filePath": "/SolutionCategories/webapp/Component.js",
-      "previewMode": 1,
-      "dataMode": 1,
-      "workspace": "withoutWorkspace",
-      "ui5ActiveVersion": null,
-      "ui5VerSource": null,
-      "isDefaultVersion": 1,
-      "urlParameters": [
-        {
-          "paramName": "",
-          "paramValue": "",
-          "paramActive": false
-        },
-        {
-          "paramName": "",
-          "paramValue": "",
-          "paramActive": false
-        }
-      ],
-      "hashParameter": "",
-      "_metadata": {
-        "id": 5239014,
-        "runnerId": "fiorirunner",
-        "displayName": "App as Fiori Component",
-        "lastRunTimeStamp": 1492864471417
       }
     }
   ],

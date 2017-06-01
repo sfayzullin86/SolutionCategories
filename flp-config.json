@@ -2,7 +2,7 @@
     "application": {
         "id": "",
         "title": "SolutionCategories.SolutionCategories",
-        "description": "SolutionCategories",
+        "description": "Solution Categories",
         "type": "SAP_UI5_Component",
         "componentUrl": "/",
         "appUrl": "#SolutionCategories-Display",
@@ -14,22 +14,23 @@
     },
     "assignment": {
         "groups": [
-            "78ea3155-7749-422d-8d8b-fcfe6abefbce"
+            "3bbf3d3e-7f97-42fe-926d-ac855813d3c3"
         ],
         "contentPackages": [
-            "3f3d55cc-a3e2-4f21-9581-e0a5d434dae1"
+            "c45e6858-6a6b-49e3-9dbf-0ac644cce1be"
         ],
         "categories": []
     },
     "tile": {
-        "type": "StaticTile",
-        "title": "SolutionCategories",
-        "subtitle": "Subtitle",
-        "searchKeywords": "SolutionCategories,Subtitle",
-        "displayIconUrl": "sap-icon://approvals",
+        "type": "DynamicTile",
+        "title": "Solution Categories",
+        "subtitle": "Customization",
+        "searchKeywords": "Solution Categories,Customization",
+        "displayIconUrl": "sap-icon://alphabetical-order",
         "displayInfoText": "",
         "size": "1x1",
-        "serviceURL": "",
-        "refreshInterval": ""
+        "serviceURL": "/sap/fiori/solutioncategories/sap/opu/odata/sap/ZSTS_SRV/SOLCATSet/$count",
+        "refreshInterval": 10,
+        "displayNumberUnit": "Categories"
     }
 }
